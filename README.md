@@ -1,4 +1,4 @@
-# MAD_LAB_2023
+# mad_lab
 JAVA  LAB exercise questions 
  
-  BY-: AMAN GOSWAMI (211B038)
+  BY-: VATSAL GANESHIYA (211B341)
